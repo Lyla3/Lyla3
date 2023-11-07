@@ -11,7 +11,7 @@
 
  - email : **iiinin74@gmail.com**
  
- - blog : **https://natatory.tistory.com/**
+ - blog : **https://natatory.tistory.com**
 
 <!---
 Lyla3/Lyla3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
